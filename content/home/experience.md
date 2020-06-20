@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-02-01"
   date_end = ""
   description = """
+  
   Responsibilities include:
   
   * Analysing financial data to generate insights for the CEO and CFO of Walmart International, a portfolio of 11 companies with >$100bn of annual revenue
@@ -41,9 +42,11 @@ date_format = "Jan 2006"
   date_end = "2020-01-31"
   description = """
   
-  * Advises leadership regarding acquisitions, joint venture, partnerships, and divestitures
-  * Manages negotiation and due diligence activities
-  * Builds financial models and conducts strategic analysis to evaluate opportunities
+  As a member of the M&A team at Walmart, my activities included:
+  
+  * Advising leadership regarding acquisitions, joint venture, partnerships, and divestitures
+  * Managing negotiation and due diligence activities
+  * Building financial models and conducts strategic analysis to evaluate opportunities
   
   """
 
@@ -56,9 +59,11 @@ date_format = "Jan 2006"
   date_end = "2018-05-31"
   description = """
   
-  * Advises leadership regarding acquisitions, joint venture, partnerships, and divestitures
-  * Manages negotiation and due diligence activities
-  * Builds financial models and conducts strategic analysis to evaluate opportunities
+  As an early member of the Customer Success team at RStudio, my activities included: 
+  
+  * Managing relationships with technologists and business leaders at technology and manufacturing companies
+  * Evangelizing use of the R programming language as a tool for data science and business analysis
+
   
   """
 
@@ -73,9 +78,11 @@ date_format = "Jan 2006"
   
   Falcon Coffees is an innovative group of coffee origins specialists building collaborative supply chains between famrers and roasters for shared profit and positive impact. 
   
-  * Responsible for all accounting, treasury, audit, risk management, pricing, hedging, compliance, financial modeling, and management reporting for a $100m coffee trading business
-  * Managed lender relationships, including a senior credit facility with complex covenants
-  * Led development of bespoke ERP software
+  As CFO, I was responsible for all accounting, treasury, audit, risk management, pricing, hedging, compliance, financial modeling, and management reporting for a $100m coffee trading business.
+  
+  My activities also included: 
+  * Managing lender relationships, including a senior credit facility with complex covenants
+  * Leading development of bespoke ERP software
   * Built and deployed software package to automate risk management and compliance activities
 
   """
@@ -106,6 +113,8 @@ date_format = "Jan 2006"
   date_end = "2011-11-30"
   description = """
   
+  Westrock Coffee is
+  
   * Certified by the Specialty Coffee Association of America as a “Q-Grader” coffee taster
   * Provided management support for coffee roasting and export operations
 
@@ -121,8 +130,12 @@ date_format = "Jan 2006"
   date_end = "2010-09-30"
   description = """
   
-  * Designed and built Enterprise Resource Planning software for coffee production/export business
-  * Founded export logistics department
+  Rwanda Trading Company was founded in 2009 as a for-profit enterprise that benefits Rwanda's economic development.
+  
+  My responsibilities included:
+  
+  * Designing and building Enterprise Resource Planning software for coffee production/export business
+  * Managing export logistics for containers of green coffee
 
   """
 
