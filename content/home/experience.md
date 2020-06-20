@@ -97,10 +97,12 @@ date_format = "Jan 2006"
   date_end = "2014-08-31"
   description = """
   
-  Westrock Group is the parent company of Rwanda Trading Company, Westrock Coffee, and Falcon Coffees. 
+  Westrock Group is the parent company of Rwanda Trading Company, Westrock Coffee, and Falcon Coffees.
   
-  * Conducted analysis and due diligence for investment opportunities
-  * Managed commodity risks associated with operating businesses
+  My activities included:
+  
+  * Conducting analysis and due diligence for investment opportunities (including the investment in Falcon Coffees, where I subsequently became CFO)
+  * Managing commodity risks associated with operating businesses
 
   """
   
@@ -113,11 +115,12 @@ date_format = "Jan 2006"
   date_end = "2011-11-30"
   description = """
   
-  Westrock Coffee is
+  Westrock Coffee is a coffee roasting company committed to building ethical relationships with coffee farmers around the world.  As the company's first Director of Coffee, my responsibilities included:
   
-  * Certified by the Specialty Coffee Association of America as a “Q-Grader” coffee taster
-  * Provided management support for coffee roasting and export operations
-
+  * Blend development, purchasing, and quality control
+  * Building scalable processes for coffee import, laboratory management, and production/roasting operations
+  * Management support for Westrock Coffee and Rwanda Trading Company
+  
 
   """
 
@@ -136,6 +139,7 @@ date_format = "Jan 2006"
   
   * Designing and building Enterprise Resource Planning software for coffee production/export business
   * Managing export logistics for containers of green coffee
+  * Developing scalable processes for coffee production and export
 
   """
 
