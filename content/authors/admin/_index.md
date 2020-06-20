@@ -2,16 +2,16 @@
 authors:
 - admin
 bio: My interests vary widely but typically involve the an intersection between math and the real world.
-#education:
-#  courses:
-#  - course: BA in Political Science
-#    institution: Stanford University
+education:
+  courses:
+  - course: BA in Political Science
+    institution: Stanford University
 #    year: 2009
 email: "aarongberg@gmail.com"
 #interests:
 #- R
 #- Information Theory
-#- Personal Finance
+#- Economic development
 organizations:
 - name: Walmart Inc
   url: "https://corporate.walmart.com/"
