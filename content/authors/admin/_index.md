@@ -22,7 +22,7 @@ social:
   link: '#contact'
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/aarongberg
+  link: https://linkedin.com/in/aarongberg
 - icon: github
   icon_pack: fab
   link: https://github.com/agberg
