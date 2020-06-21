@@ -1,17 +1,20 @@
 ---
 authors:
 - admin
-bio: My interests vary widely but typically involve the an intersection between math and the real world.
+bio: My interests vary widely but typically involve the application of math to the real world.
+
+interests:
+- Commercial finance
+- Automation of reporting workflows
+- The R programming language
+
 education:
   courses:
   - course: BA in Political Science
     institution: Stanford University
 #    year: 2009
 email: "aarongberg@gmail.com"
-#interests:
-#- R
-#- Information Theory
-#- Economic development
+
 organizations:
 - name: Walmart Inc
   url: "https://corporate.walmart.com/"
@@ -30,6 +33,4 @@ superuser: true
 title: Aaron Berg
 ---
 
-I am a finance profressional focused on driving profitable growth, managing financial risks, and increasing operational transparency.  I have a track record of developing talent across the teams and organizations that I work with.
-
-I am passionate about using technology to empower analysts and business teams, especially "small scale tools" that can radically improve team effectiveness while minimizing complexity and cost of deployment.  Finally, I am a voracious problem-solver skilled in synthesizing inputs from experts and sources to identify, define, and resolve complex business challenges.
+I am a finance profressional focused on building teams that drive profitable growth, manage financial risks, and increase operational transparency.  I am passionate about using technology to empower analysts and business teams, especially small-scale tools that can radically improve team effectiveness while minimizing complexity and cost of deployment.  Finally, I am a voracious problem-solver skilled in synthesizing inputs from experts and sources to identify, define, and resolve complex business challenges.
