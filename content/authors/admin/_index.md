@@ -4,7 +4,7 @@ authors:
 bio: My interests vary widely but typically involve the application of math to the real world.
 
 interests:
-- Commercial finance
+- Finance & economics
 - Automation of reporting workflows
 - The R programming language
 
