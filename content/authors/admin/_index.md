@@ -12,7 +12,7 @@ education:
   courses:
   - course: BA in Political Science
     institution: Stanford University
-#    year: 2009
+    year: 2009
 email: "aarongberg@gmail.com"
 
 organizations:
