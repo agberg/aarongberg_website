@@ -115,7 +115,9 @@ date_format = "Jan 2006"
   date_end = "2011-11-30"
   description = """
   
-  Westrock Coffee is a coffee roasting company committed to building ethical relationships with coffee farmers around the world.  As the company's first Director of Coffee, my responsibilities included:
+  Westrock Coffee is a coffee roasting company committed to building ethical relationships with coffee farmers around the world.  
+  
+  As the company's first Director of Coffee, my responsibilities included:
   
   * Blend development, purchasing, and quality control
   * Building scalable processes for coffee import, laboratory management, and production/roasting operations
