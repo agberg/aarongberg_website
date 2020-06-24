@@ -1,4 +1,7 @@
 ---
+
+superuser: true
+
 authors:
 - admin
 bio: My interests vary widely but typically involve the application of math to the real world.
@@ -10,7 +13,7 @@ interests:
 
 education:
   courses:
-  - course: BA in Political Science
+  - course: BA, Political Science
     institution: Stanford University
     year: 2009
 email: "aarongberg@gmail.com"
@@ -33,4 +36,4 @@ superuser: true
 title: Aaron Berg
 ---
 
-I am a finance profressional focused on building teams that drive profitable growth, manage financial risks, and increase operational transparency.  I am passionate about using technology to empower analysts and business teams, especially small-scale tools that can radically improve team effectiveness while minimizing complexity and cost of deployment.  I am a voracious problem-solver skilled in synthesizing inputs from diverse sources to identify, define, and resolve complex business challenges.
+I am a finance professional focused on building teams that drive profitable growth, manage financial risks, and increase operational transparency.  I am passionate about using technology to empower analysts and business teams, especially small-scale tools that can radically improve team effectiveness while minimizing complexity and deployment cost.  I am a voracious problem-solver skilled in synthesizing inputs from diverse sources to identify, define, and resolve complex business challenges.

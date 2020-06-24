@@ -83,7 +83,7 @@ date_format = "Jan 2006"
   My activities also included: 
   * Managing lender relationships, including a senior credit facility with complex covenants
   * Leading development of bespoke ERP software
-  * Built and deployed software package to automate risk management and compliance activities
+  * Building and deploying software package to automate risk management and compliance activities
 
   """
   
