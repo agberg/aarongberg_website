@@ -18,12 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "CFO, Westrock Coffee Roasting"
+  company = "Westrock Coffee Company"
+  company_url = "https://www.westrockcoffee.com"
+  location = "Little Rock, AR, USA"
+  date_start = "2020-11-01"
+  date_end = ""
+
+[[experience]]
   title = "Director, Walmart International FP&A"
   company = "Walmart, Inc."
   company_url = "https://corporate.walmart.com"
   location = "Bentonville, AR, USA"
   date_start = "2020-02-01"
-  date_end = ""
+  date_end = "2020-10-31"
   description = """
   
   Responsibilities include:
