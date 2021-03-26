@@ -84,7 +84,7 @@ date_format = "Jan 2006"
   date_end = "2017-02-28"
   description = """
   
-  Falcon Coffees is an innovative group of coffee origins specialists building collaborative supply chains between famrers and roasters for shared profit and positive impact. 
+  Falcon Coffees is an innovative group of coffee origin specialists building collaborative supply chains between famrers and roasters for shared profit and positive impact. 
   
   As CFO, I was responsible for all accounting, treasury, audit, risk management, pricing, hedging, compliance, financial modeling, and management reporting for a $100m coffee trading business.
   
