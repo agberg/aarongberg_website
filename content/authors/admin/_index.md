@@ -19,9 +19,9 @@ education:
 email: "aarongberg@gmail.com"
 
 organizations:
-- name: Walmart Inc
-  url: "https://corporate.walmart.com/"
-role: Director, Walmart International FP&A
+- name: Westrock Coffee Company
+  url: "https://westrockcoffee.com/"
+role: CFO, Westrock Coffee Roasting
 social:
 - icon: envelope
   icon_pack: fas
