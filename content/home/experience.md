@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   
   Responsibilities include:
   
-  * Analysing financial data to generate insights for the CEO and CFO of Walmart International, a portfolio of 11 companies with >$100bn of annual revenue
+  * Analyzing financial data to generate insights for the CEO and CFO of Walmart International, a portfolio of 11 companies with >$100bn of annual revenue
   * Leading team of five finance professionals and partnering with several dozen cross-functional stakeholders
   * Improving and automating processes to increase the ease, speed, and quality of reporting
   """
